@@ -1,5 +1,5 @@
 .prm-header {
-    background: url(../img/header.jpg) center no-repeat;
+    background: url(header.jpg) center no-repeat;
     display: flex;
     align-items: center;
     position: relative;
@@ -131,13 +131,13 @@
   
   @media (width: 900px) and (height: 600px) {
     .prm-header {
-      background: url(../img/900x600header.jpg) center no-repeat;
+      background: url(900x600header.jpg) center no-repeat;
     }
   }
   
   @media (width: 560px) and (height: 400px) {
     .prm-header {
-      background: url(../img/560x400header.jpg) center no-repeat;
+      background: url(560x400header.jpg) center no-repeat;
     }
   }
   
